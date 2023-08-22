@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitormag-gh
 - 👀 I’m interested in Risk Management
-- 🌱 I’m currently learning ML/AI
+- 🌱 I’m currently studying ML/AI
 - 📫 How to reach me vitor@riskfit.ca
 
 <!---
